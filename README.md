@@ -22,5 +22,5 @@
 [Bootstrap-url]: https://getbootstrap.com/
 [Nestjs.com]: https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
 [NestJS-url]: https://nestjs.com/
-[Go.dev]: https://go.dev/learn/
-[Go-url]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[Go.dev]: https://go.dev/
+[Go-url]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
