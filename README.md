@@ -9,10 +9,10 @@
 
 ### Stacks
 
-[![Angular][Angular.io]][Angular-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![NestJS][Nestjs.com]][NestJS-url]
-[![Golang][Go.dev]][Go-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![NestJS][Nestjs.com]][NestJS-url]
+* [![Golang][Go.dev]][Go-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
