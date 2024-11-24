@@ -21,7 +21,7 @@
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [React.io]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[React-url]: https://nextjs.org/
+[React-url]: https://react.dev/
 [NextJS.io]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [NextJS-url]: https://nextjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
