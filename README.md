@@ -1,6 +1,6 @@
 <p align="center">Love anything technology related. Currently working as a fullstack developer (NestJS and Angular, NextJS).</p>
 
-Favorite website => [![Smol brain][Grug-url]]
+Favorite website => [Smol brain][Grug-url]
 
 - 🌟 Speak fluent Vietnamese and English. N2 in Japanese.
 - 🚀 Angular enthusiast. Love NestJS and Angular.
